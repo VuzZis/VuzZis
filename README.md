@@ -12,3 +12,11 @@
 * 🌌Asternomos `MC MOD`
 * 🔋Delicc `PLanguage`
 * 👥Stellar Hub
+```java
+if(work.length <= 0) {
+  generateWork(work,users.Skoow);
+  while(users.Skoow.working) {
+    users.Skoow.advanceExperience();
+  }
+}
+```
