@@ -6,7 +6,7 @@
 * 📌Love Physics, Maths
 * 🍀Quiet and friendly
 * 🔮Colors and elegance are the world
-* 🌌Space Enjoyer\
+* 🌌Space Enjoyer
 ## My Projects
 * 🖥️Raya-Innovation (HaloTerra) `MC MOD`
 * 🌌Asternomos `MC MOD`
