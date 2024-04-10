@@ -9,7 +9,7 @@
 * 🌌Space Enjoyer
 ## My Projects
 * 🖥️Raya-Innovation (HaloTerra) `MC MOD`
-* 🌌Asternomos `MC MOD`
+* 🌌Novaborn `MC MOD`
 * 🔋Delicc `PLanguage`
 * 👥Stellar Hub
 ```java
