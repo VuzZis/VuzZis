@@ -11,10 +11,8 @@
 * 🔮Colors and elegance are the world
 * 🌌Space Enjoyer
 ## My Projects
-* 🖥️Raya-Innovation (HaloTerra) `MC MOD`
-* 🌌Novaborn `MC MOD`
-* 🔋Delicc `PLanguage`
-* 👥Stellar Hub
+* 🌌Subvoyage `Mindustry Mod`
+* 🔋Physs `Programming Language`
 ```java
 if(work.length <= 0) {
   generateWork(work,users.Skoow);
